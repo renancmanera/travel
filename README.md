@@ -1,3 +1,3 @@
 # Travel
 
-renancmanera.github.io/travel
+https://renancmanera.github.io/travel/
